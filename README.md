@@ -20,3 +20,5 @@ The first recaptcha has to be completed manually.
 
 ## Tik Tok Auto Views V2
 [**Python**](https://github.com/kangoka/tiktok-autoviewsv2-py)
+
+Its made by tipu khan
